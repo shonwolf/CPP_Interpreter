@@ -13,7 +13,7 @@ This project is divided into three main parts:
       * placement (placement of value into variable with =).
       * define variable (name of new variable so his value will be saved in a symbol table).
       * print.
-      * sleep (delay for x second).
+      * sleep (delay for x time).
       * exit (the program).
    * executs those commands, one after another.
 3. Communication with a flight simulator (flight gear) by sending commands to it and receiving data from it:
